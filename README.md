@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developper
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+a+fullstack+developper;Let's+work+together+!&color=#39D353&size=35&width=555&font=source+code+pro)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+a+fullstack+developper;Let's+work+together+!&color=fff&size=35&width=555&font=source+code+pro)](https://git.io/typing-svg)
 --------------
 
 I had a passion for web development right from the start, when in the second grade we went to the computer lab to write our first static web page. That's how I took pleasure in development and that's how I chose the computer science field at the university. I am now a fullstack developer.
