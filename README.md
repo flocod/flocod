@@ -11,7 +11,7 @@ Web Developer
 I had a passion for web development right from the start, when in the second grade we went to the computer lab to write our first static web page. That's how I took pleasure in development and that's how I chose the computer science field at the university. I am now a fullstack developer.
 
 * 🌍  I'm based in Douala, Cameroon
-* 🖥️  See my portfolio at [flocod.github.io/resume](http://flocod.github.io/resume)
+* 🖥️  See my portfolio at [flocod.github.io/resume](http://flocod.github.io/florian)
 * ✉️  You can contact me at [florian.tchomga@gmail.com](mailto:florian.tchomga@gmail.com)
 * 🚀  I'm currently working on [CFACASH](http://cfacash.com)
 * 🧠  I'm learning ReactJS
