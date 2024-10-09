@@ -11,9 +11,9 @@ Web Developer
 I had a passion for web development right from the start, when in the second grade we went to the computer lab to write our first static web page. That's how I took pleasure in development and that's how I chose the computer science field at the university. I am now a fullstack developer.
 
 * 🌍  I'm based in Douala, Cameroon
-* 🖥️  See my portfolio at [flocod.github.io/resume](http://flocod.vercel.app)
+* 🖥️  See my portfolio at [flocod.vercel.app](http://flocod.vercel.app)
 * ✉️  You can contact me at [florian.tchomga@gmail.com](mailto:florian.tchomga@gmail.com)
-* 🚀  I'm currently working on [CFACASH](http://resgest.com)
+* 🚀  I'm currently working on [RESGEST](http://resgest.com)
 * 🧠  I'm learning NextJs
 * 🤝  I'm open to collaborating on interesting web creative projects,
 * ⚡  We can make the world a little better with code
